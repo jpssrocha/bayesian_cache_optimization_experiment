@@ -1,0 +1,11 @@
+[project]
+name = "bayesian-tiling-optimization-experiment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cffi>=2.1.0",
+    "optuna>=4.9.0",
+    "optuna-dashboard>=0.20.0",
+]
